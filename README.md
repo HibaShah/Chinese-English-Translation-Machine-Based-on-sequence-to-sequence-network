@@ -2,5 +2,5 @@
 
 hello there,
 
-here are 2 experiments of Deep Learning. 
-All files of Experiment 2 and Experiment 3 can be found named as Experiment 2 & Experiment 3
+here 2nd Experiment of Deep Learning. This is part 2 of all 3 parts, you can check my other repositries for other 1st and 3rd experiments.
+All files of Experiment 2 are here
